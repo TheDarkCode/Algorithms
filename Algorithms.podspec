@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "Algorithms"
-  s.version          = "0.0.1"
+  s.version          = "0.0.3"
   s.summary          = "Collection of algorithms and data structures written in Swift 2.x."
   s.homepage         = "https://github.com/TheDarkCode/Algorithms"
   s.license          = 'MIT'
