@@ -199,11 +199,11 @@ public struct List<T> {
     }
     
     
-    public func removeAt(element: T, position: IndexPath) throws -> Bool {
-        
-        return false
-        
-    }
+    //public func removeAt(element: T, position: IndexPath) throws -> Bool {
+    //    
+    //    return false
+    //    
+    //}
     
     public mutating func clear() {
         
