@@ -1,5 +1,5 @@
 //
-//  StackExtensions.swift
+//  Stack.swift
 //  Last-in First-out Stack.
 //  Ahtau
 //
